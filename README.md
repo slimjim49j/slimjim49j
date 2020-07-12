@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi There 👋
+
+I'm Jimmy, a software engineer.
+
+Be sure to check out some of my projects!
+
+(My LinkedIn)[https://www.linkedin.com/in/jimmycollins-softwareengineer/]
 
 <!--
 **slimjim49j/slimjim49j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
