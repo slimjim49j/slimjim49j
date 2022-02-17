@@ -8,7 +8,7 @@ Be sure to check out some of my projects!
 
 [Personal Site](http://jimmycollins.me/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=${slimjim49j})](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slimjim49j)](https://git.io/streak-stats)
 
 
 <!--
