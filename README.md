@@ -8,6 +8,8 @@ Be sure to check out some of my projects!
 
 [Personal Site](http://jimmycollins.me/)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=${YourUserName})](https://git.io/streak-stats)
+
 
 <!--
 **slimjim49j/slimjim49j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
